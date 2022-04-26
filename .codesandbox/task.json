@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "dev": {
+      "name": "Application",
+      "command": "yarn dev",
+      "runAtStart": true
+    }
+  }
+}
