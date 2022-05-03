@@ -4,6 +4,11 @@
       "name": "Application",
       "command": "yarn dev",
       "runAtStart": true
+    },
+    "dev-duplicate": {
+      "name": "Run my app",
+      "command": "yarn dev",
+      "runAtStart": true
     }
   }
 }
